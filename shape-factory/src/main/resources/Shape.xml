@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+        "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+
+<beans>
+    <bean class="com.shapefactory.Rectangle" id="rectangle">
+        <property name="dimensionOne" value="10"></property>
+        <property name="dimensionTwo" value="20"></property>
+    </bean>
+    <bean class="com.shapefactory.Triangle" id="triangle">
+        <property name="dimensionOne" value="10"></property>
+        <property name="dimensionTwo" value="20"></property>
+    </bean>
+
+</beans>
