@@ -29,5 +29,5 @@ To set up and run the Shape Factory application on your local machine, follow th
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/shape-factory.git
+   git clone https://github.com/prathitkulkarni/Shape-Factory-using-Spring-Framework.git
    cd shape-factory
